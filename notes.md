@@ -16,4 +16,4 @@ food - bread, paying for lunches
 home management - sewing, paying the cleaning lady, clothing, sending telegrams to family 
 entertainment - opera tickets, art tickets 
 car - car fares 
-miscellaneous - any unknown purchases by Bailey, writing cheques etc. 555
+miscellaneous - any unknown purchases by Bailey, writing cheques etc. 
