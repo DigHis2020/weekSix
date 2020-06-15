@@ -14,7 +14,7 @@ The excel graph I created was drawn on by her January finances chart that was in
 The graph detailed her expenditures throughout the month, broken down into categories of food, home management (which includes clothing her family, paying the cleaning lady, buying thread etc.), entertainment, car fees, and undetermined expenses. 
 The two largest expenses for her were home-related and entertainment. 
 Bailey spent almost all of her money buying clothes for her and her family.
-She also attended a great deal of operas and art exhibits which an opportunity likely lent to her by her class privileges. 
+She also attended a great deal of operas and art exhibits which is an opportunity likely lent to her by her class privileges. 
 
 This graph scrapes the surface of a woman's responsibilities in Bailey's society. From the graph and from the text analysis, it seems clear that Bailey organized her household and cared for several members of her family. 
 
