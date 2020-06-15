@@ -17,3 +17,8 @@ home management - sewing, paying the cleaning lady, clothing, sending telegrams 
 entertainment - opera tickets, art tickets 
 car - car fares 
 miscellaneous - any unknown purchases by Bailey, writing cheques etc. 
+
+
+I had some difficutly uploading my png file of my Inkscape poster so I had to upload it as a screenshot. 
+I exported it properly but when I tried to view it in Github after uploading it, it showed up as blank. 
+
